@@ -1,5 +1,14 @@
 = Basic Vim References =
 
+
+=== Yank and Paste ===
+
+To *copy an entire line* place the cursor at the beginning of the line and type:
+- yy
+
+To copy multiple lines:
+- 3yy
+
 === How to jump to a specific line ===
 - {line_number}<shift>G
 
