@@ -25,6 +25,7 @@
     - a named vallue associated with an object
     - if your object was a person, an attrubute could be:
         - height
+
         - weight
         - eyecolor
         - age
